@@ -23,4 +23,10 @@ Español, Francés, Inglés
 
   ##Esto es una prueba como si una persona subio los cambios a mi repositorio y yo estoy a punto de hacer los cambios
   ##Agrege esto
+
+GitHub (remoto)
+      ↑ ↓ push/pull
+Tu ordenador (local)
+├── main        ← espejo de lo que hay en GitHub
+└── feature/X   ← donde TÚ trabajas
   
